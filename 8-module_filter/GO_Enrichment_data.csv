@@ -1,0 +1,181 @@
+"ID","Description","GeneNumber","group","p.adjust","Module"
+"GO:0005759","mitochondrial matrix",62,"Cellular Component",9.68074070502213e-42,1
+"GO:0005777","peroxisome",36,"Cellular Component",9.08319391980723e-35,1
+"GO:0042579","microbody",36,"Cellular Component",9.08319391980723e-35,1
+"GO:0005782","peroxisomal matrix",20,"Cellular Component",9.58355294873964e-24,1
+"GO:0031907","microbody lumen",20,"Cellular Component",9.58355294873964e-24,1
+"GO:0005778","peroxisomal membrane",16,"Cellular Component",2.7674378141977e-15,1
+"GO:0031903","microbody membrane",16,"Cellular Component",2.7674378141977e-15,1
+"GO:0045239","tricarboxylic acid cycle enzyme complex",7,"Cellular Component",1.34355481608291e-08,1
+"GO:1990204","oxidoreductase complex",14,"Cellular Component",1.77548905361398e-08,1
+"GO:0030062","mitochondrial tricarboxylic acid cycle enzyme complex",6,"Cellular Component",3.60753876056622e-08,1
+"GO:0016614","oxidoreductase activity, acting on CH-OH group of donors",23,"Molecular Function",8.16125880108484e-16,1
+"GO:0019842","vitamin binding",22,"Molecular Function",3.3309077656087e-14,1
+"GO:0051287","NAD binding",15,"Molecular Function",5.50907035139084e-14,1
+"GO:0030170","pyridoxal phosphate binding",15,"Molecular Function",5.91270778817146e-14,1
+"GO:0016829","lyase activity",24,"Molecular Function",5.91270778817146e-14,1
+"GO:0016616","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",20,"Molecular Function",5.91270778817146e-14,1
+"GO:0070279","vitamin B6 binding",15,"Molecular Function",5.91270778817146e-14,1
+"GO:0050660","flavin adenine dinucleotide binding",17,"Molecular Function",1.92934487123185e-13,1
+"GO:0016405","CoA-ligase activity",11,"Molecular Function",1.55093010749162e-12,1
+"GO:0016878","acid-thiol ligase activity",11,"Molecular Function",8.62430641139774e-12,1
+"GO:0044282","small molecule catabolic process",102,"Biological Process",6.26594437378278e-104,1
+"GO:0046395","carboxylic acid catabolic process",85,"Biological Process",4.97189388971872e-97,1
+"GO:0016054","organic acid catabolic process",85,"Biological Process",1.75005149502696e-96,1
+"GO:0006520","cellular amino acid metabolic process",73,"Biological Process",1.17560421427226e-70,1
+"GO:0009063","cellular amino acid catabolic process",52,"Biological Process",2.81678708571993e-65,1
+"GO:1901605","alpha-amino acid metabolic process",62,"Biological Process",7.24117510021496e-65,1
+"GO:1901606","alpha-amino acid catabolic process",43,"Biological Process",3.48635808486249e-53,1
+"GO:0046394","carboxylic acid biosynthetic process",53,"Biological Process",1.54085826208663e-39,1
+"GO:0016053","organic acid biosynthetic process",53,"Biological Process",1.90827631136566e-39,1
+"GO:0043648","dicarboxylic acid metabolic process",34,"Biological Process",1.990065119207e-37,1
+"GO:0016323","basolateral plasma membrane",7,"Cellular Component",0.00634424771070305,2
+"GO:0009925","basal plasma membrane",7,"Cellular Component",0.00634424771070305,2
+"GO:0045178","basal part of cell",7,"Cellular Component",0.00646737831032338,2
+"GO:0016324","apical plasma membrane",7,"Cellular Component",0.0298168637906624,2
+"GO:0099059","integral component of presynaptic active zone membrane",2,"Cellular Component",0.0413058140943552,2
+"GO:0098945","intrinsic component of presynaptic active zone membrane",2,"Cellular Component",0.044346084470772,2
+"GO:0045177","apical part of cell",7,"Cellular Component",0.044346084470772,2
+"GO:0048787","presynaptic active zone membrane",2,"Cellular Component",0.110598197182006,2
+"GO:0005766","primary lysosome",3,"Cellular Component",0.36941382386158,2
+"GO:0042582","azurophil granule",3,"Cellular Component",0.36941382386158,2
+"GO:0004497","monooxygenase activity",22,"Molecular Function",2.26859630074783e-29,2
+"GO:0016705","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",23,"Molecular Function",8.84862577889357e-26,2
+"GO:0016712","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",15,"Molecular Function",3.06679719124302e-24,2
+"GO:0005506","iron ion binding",20,"Molecular Function",1.23127658326959e-22,2
+"GO:0016709","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",14,"Molecular Function",2.86288047275613e-22,2
+"GO:0020037","heme binding",19,"Molecular Function",5.30424324133478e-22,2
+"GO:0046906","tetrapyrrole binding",19,"Molecular Function",1.80294011704956e-21,2
+"GO:0008395","steroid hydroxylase activity",13,"Molecular Function",1.11743641775449e-20,2
+"GO:0008391","arachidonic acid monooxygenase activity",10,"Molecular Function",1.18575384960417e-17,2
+"GO:0070330","aromatase activity",10,"Molecular Function",9.75012286160568e-17,2
+"GO:0006805","xenobiotic metabolic process",32,"Biological Process",1.17160539076236e-47,2
+"GO:0071466","cellular response to xenobiotic stimulus",32,"Biological Process",3.59454695151688e-41,2
+"GO:0008202","steroid metabolic process",35,"Biological Process",5.4589940850947e-38,2
+"GO:0034754","cellular hormone metabolic process",27,"Biological Process",1.41825506352704e-35,2
+"GO:0120254","olefinic compound metabolic process",27,"Biological Process",4.56740722015126e-34,2
+"GO:0042445","hormone metabolic process",29,"Biological Process",2.08207024201476e-32,2
+"GO:0009410","response to xenobiotic stimulus",33,"Biological Process",8.3745089846357e-31,2
+"GO:0008210","estrogen metabolic process",17,"Biological Process",6.00956374712775e-29,2
+"GO:0034308","primary alcohol metabolic process",19,"Biological Process",6.52050577629268e-24,2
+"GO:0006066","alcohol metabolic process",26,"Biological Process",6.92012868026854e-23,2
+"GO:0098687","chromosomal region",53,"Cellular Component",1.6645462026682e-44,4
+"GO:0000781","chromosome, telomeric region",31,"Cellular Component",2.27825112336105e-29,4
+"GO:0000228","nuclear chromosome",30,"Cellular Component",7.91471785045971e-23,4
+"GO:0070603","SWI/SNF superfamily-type complex",18,"Cellular Component",1.69847226006416e-17,4
+"GO:1904949","ATPase complex",18,"Cellular Component",2.61744897936577e-17,4
+"GO:0000793","condensed chromosome",26,"Cellular Component",2.61744897936577e-17,4
+"GO:0000775","chromosome, centromeric region",23,"Cellular Component",5.84902025571681e-15,4
+"GO:0000118","histone deacetylase complex",14,"Cellular Component",7.97089236400641e-13,4
+"GO:0005819","spindle",25,"Cellular Component",6.86781903683459e-12,4
+"GO:0061695","transferase complex, transferring phosphorus-containing groups",21,"Cellular Component",1.46583311289926e-11,4
+"GO:0140097","catalytic activity, acting on DNA",28,"Molecular Function",2.80200812656305e-19,4
+"GO:0008094","ATP-dependent activity, acting on DNA",21,"Molecular Function",4.5811557501851e-18,4
+"GO:0042393","histone binding",27,"Molecular Function",8.41389221421882e-18,4
+"GO:0031491","nucleosome binding",16,"Molecular Function",7.81350541302081e-16,4
+"GO:0003684","damaged DNA binding",14,"Molecular Function",6.80601453097252e-13,4
+"GO:0003678","DNA helicase activity",14,"Molecular Function",6.97930090235139e-13,4
+"GO:0003697","single-stranded DNA binding",16,"Molecular Function",6.10270427429575e-12,4
+"GO:0004386","helicase activity",17,"Molecular Function",1.29511239326935e-11,4
+"GO:0140297","DNA-binding transcription factor binding",27,"Molecular Function",1.29511239326935e-11,4
+"GO:0031492","nucleosomal DNA binding",10,"Molecular Function",1.8871093124696e-10,4
+"GO:0006260","DNA replication",37,"Biological Process",1.5528219609645e-27,4
+"GO:0006338","chromatin remodeling",38,"Biological Process",9.34601618317656e-25,4
+"GO:0006302","double-strand break repair",34,"Biological Process",1.43952256535883e-23,4
+"GO:0016570","histone modification",40,"Biological Process",2.28603279490447e-23,4
+"GO:0007059","chromosome segregation",36,"Biological Process",1.64073258750904e-22,4
+"GO:0071103","DNA conformation change",21,"Biological Process",2.85524730252916e-19,4
+"GO:0006310","DNA recombination",30,"Biological Process",5.10825287404975e-18,4
+"GO:0033044","regulation of chromosome organization",27,"Biological Process",5.10825287404975e-18,4
+"GO:0032392","DNA geometric change",19,"Biological Process",3.46117576066204e-17,4
+"GO:0006282","regulation of DNA repair",24,"Biological Process",1.68718834532038e-16,4
+"GO:0005635","nuclear envelope",38,"Cellular Component",2.82548850012211e-36,6
+"GO:0005643","nuclear pore",25,"Cellular Component",2.82548850012211e-36,6
+"GO:0031965","nuclear membrane",23,"Cellular Component",9.37469139967214e-21,6
+"GO:0101031","chaperone complex",9,"Cellular Component",5.88367609983852e-12,6
+"GO:0000776","kinetochore",11,"Cellular Component",4.24060718992416e-09,6
+"GO:0000779","condensed chromosome, centromeric region",11,"Cellular Component",6.67773027890596e-09,6
+"GO:0016234","inclusion body",8,"Cellular Component",3.20303958524546e-08,6
+"GO:0000793","condensed chromosome",12,"Cellular Component",4.71213423163989e-08,6
+"GO:0000775","chromosome, centromeric region",11,"Cellular Component",2.03283675438783e-07,6
+"GO:0034399","nuclear periphery",9,"Cellular Component",2.2312462299936e-07,6
+"GO:0017056","structural constituent of nuclear pore",14,"Molecular Function",5.90763259178022e-24,6
+"GO:0140142","nucleocytoplasmic carrier activity",13,"Molecular Function",2.16941233573238e-21,6
+"GO:0031072","heat shock protein binding",17,"Molecular Function",7.2510482593144e-19,6
+"GO:0140104","molecular carrier activity",14,"Molecular Function",7.93905672484021e-17,6
+"GO:0061608","nuclear import signal receptor activity",8,"Molecular Function",4.38999865433623e-13,6
+"GO:0008139","nuclear localization sequence binding",8,"Molecular Function",1.04223251292755e-11,6
+"GO:0005048","signal sequence binding",8,"Molecular Function",1.97870628642571e-09,6
+"GO:0031267","small GTPase binding",13,"Molecular Function",9.77497170145298e-09,6
+"GO:0005049","nuclear export signal receptor activity",5,"Molecular Function",1.79012506616686e-08,6
+"GO:0051020","GTPase binding",13,"Molecular Function",2.91710730211641e-08,6
+"GO:0006913","nucleocytoplasmic transport",41,"Biological Process",1.76206319530023e-46,6
+"GO:0051169","nuclear transport",41,"Biological Process",1.76206319530023e-46,6
+"GO:0034504","protein localization to nucleus",32,"Biological Process",9.81931475923032e-33,6
+"GO:0006606","protein import into nucleus",27,"Biological Process",1.11769067351493e-32,6
+"GO:0051170","import into nucleus",27,"Biological Process",1.78407736633693e-32,6
+"GO:0050657","nucleic acid transport",25,"Biological Process",1.54125473536122e-29,6
+"GO:0050658","RNA transport",25,"Biological Process",1.54125473536122e-29,6
+"GO:0051236","establishment of RNA localization",25,"Biological Process",2.1867986863479e-29,6
+"GO:0072594","establishment of protein localization to organelle",32,"Biological Process",7.99891006505952e-28,6
+"GO:0006403","RNA localization",25,"Biological Process",3.00608371781965e-27,6
+"GO:0005925","focal adhesion",35,"Cellular Component",1.39075710523849e-26,7
+"GO:0030055","cell-substrate junction",35,"Cellular Component",1.55877907674651e-26,7
+"GO:0030139","endocytic vesicle",25,"Cellular Component",2.02472530604859e-17,7
+"GO:0062023","collagen-containing extracellular matrix",24,"Cellular Component",4.43352522387558e-14,7
+"GO:0031252","cell leading edge",21,"Cellular Component",2.16646918933194e-11,7
+"GO:0005604","basement membrane",11,"Cellular Component",2.03279732037391e-09,7
+"GO:0042641","actomyosin",9,"Cellular Component",7.73064374903834e-08,7
+"GO:0030027","lamellipodium",12,"Cellular Component",3.00684650072724e-07,7
+"GO:0005769","early endosome",16,"Cellular Component",3.65888301744162e-07,7
+"GO:0001725","stress fiber",8,"Cellular Component",4.3493397747253e-07,7
+"GO:0005178","integrin binding",18,"Molecular Function",1.01515793279424e-14,7
+"GO:0045296","cadherin binding",18,"Molecular Function",2.7117361122992e-09,7
+"GO:0003779","actin binding",20,"Molecular Function",2.7328091419544e-09,7
+"GO:0005201","extracellular matrix structural constituent",12,"Molecular Function",2.39168894712752e-07,7
+"GO:0043394","proteoglycan binding",6,"Molecular Function",1.063952584382e-05,7
+"GO:0008201","heparin binding",10,"Molecular Function",1.73782152403037e-05,7
+"GO:0005539","glycosaminoglycan binding",11,"Molecular Function",3.79677854986886e-05,7
+"GO:0001618","virus receptor activity",7,"Molecular Function",4.18424436257313e-05,7
+"GO:0140272","exogenous protein binding",7,"Molecular Function",4.18424436257313e-05,7
+"GO:0098632","cell-cell adhesion mediator activity",6,"Molecular Function",6.36887964197879e-05,7
+"GO:0006898","receptor-mediated endocytosis",22,"Biological Process",9.43097786081174e-15,7
+"GO:0042060","wound healing",21,"Biological Process",3.42162115481852e-09,7
+"GO:0007229","integrin-mediated signaling pathway",12,"Biological Process",1.52182899195813e-08,7
+"GO:0070663","regulation of leukocyte proliferation",16,"Biological Process",3.13089906041387e-08,7
+"GO:0050670","regulation of lymphocyte proliferation",15,"Biological Process",4.46018476645813e-08,7
+"GO:0045785","positive regulation of cell adhesion",20,"Biological Process",4.46018476645813e-08,7
+"GO:0032944","regulation of mononuclear cell proliferation",15,"Biological Process",4.46018476645813e-08,7
+"GO:0030100","regulation of endocytosis",14,"Biological Process",5.74134766200141e-08,7
+"GO:0070661","leukocyte proliferation",17,"Biological Process",7.19460312047767e-08,7
+"GO:0046651","lymphocyte proliferation",16,"Biological Process",8.03984004932001e-08,7
+"GO:0000313","organellar ribosome",40,"Cellular Component",4.63500219194959e-92,17
+"GO:0005761","mitochondrial ribosome",40,"Cellular Component",4.63500219194959e-92,17
+"GO:0044391","ribosomal subunit",40,"Cellular Component",1.17165379356496e-76,17
+"GO:0005840","ribosome",40,"Cellular Component",9.654266119534e-73,17
+"GO:0098798","mitochondrial protein-containing complex",40,"Cellular Component",2.52310877323823e-68,17
+"GO:0005759","mitochondrial matrix",42,"Cellular Component",1.35146884396868e-64,17
+"GO:0005743","mitochondrial inner membrane",41,"Cellular Component",1.96821340517135e-61,17
+"GO:0000315","organellar large ribosomal subunit",24,"Cellular Component",1.78492536756298e-51,17
+"GO:0005762","mitochondrial large ribosomal subunit",24,"Cellular Component",1.78492536756298e-51,17
+"GO:0015934","large ribosomal subunit",24,"Cellular Component",1.21118425892868e-42,17
+"GO:0003735","structural constituent of ribosome",34,"Molecular Function",1.78439641039411e-59,17
+"GO:0019843","rRNA binding",7,"Molecular Function",3.33705267544719e-09,17
+"GO:0043021","ribonucleoprotein complex binding",3,"Molecular Function",0.0617016390813099,17
+"GO:0000049","tRNA binding",2,"Molecular Function",0.0741014337660176,17
+"GO:0043022","ribosome binding",2,"Molecular Function",0.0741014337660176,17
+"GO:0032977","membrane insertase activity",1,"Molecular Function",0.151444029442005,17
+"GO:0043024","ribosomal small subunit binding",1,"Molecular Function",0.1570645060143,17
+"GO:0048027","mRNA 5'-UTR binding",1,"Molecular Function",0.184851760600363,17
+"GO:0140597","protein carrier chaperone",1,"Molecular Function",0.184851760600363,17
+"GO:0030331","nuclear estrogen receptor binding",1,"Molecular Function",0.214785675469168,17
+"GO:0032543","mitochondrial translation",41,"Biological Process",3.46600495022776e-86,17
+"GO:0140053","mitochondrial gene expression",41,"Biological Process",6.13827653632778e-82,17
+"GO:0042255","ribosome assembly",3,"Biological Process",0.0124607090456141,17
+"GO:0042254","ribosome biogenesis",4,"Biological Process",0.117225734521689,17
+"GO:0000959","mitochondrial RNA metabolic process",2,"Biological Process",0.117225734521689,17
+"GO:0033148","positive regulation of intracellular estrogen receptor signaling pathway",1,"Biological Process",0.295959241977438,17
+"GO:0022613","ribonucleoprotein complex biogenesis",4,"Biological Process",0.295959241977438,17
+"GO:0033145","positive regulation of intracellular steroid hormone receptor signaling pathway",1,"Biological Process",0.295959241977438,17
+"GO:0045815","epigenetic maintenance of chromatin in transcription-competent conformation",1,"Biological Process",0.295959241977438,17
+"GO:0070071","proton-transporting two-sector ATPase complex assembly",1,"Biological Process",0.295959241977438,17
