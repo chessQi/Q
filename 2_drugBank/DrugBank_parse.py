@@ -1,9 +1,3 @@
- # @Author: Min Li
- # @Email: mli.bio@outlook.com
- # @Last Modified by: Min Li
- # @Timestamp for Last Modification: 2022-02-13 18:38:39
- # @Description: This script implements a class to parse the xml file downloaded from DrugBank 
- # to obtain DrugID, DrugName, DrugInChI, TargetID, GeneName, Indications and their mapping relationship.
  # You can get the xml file on https://go.drugbank.com/releases/latest. This script is based upon v5.1.9.
 
  # Known bugs: 
